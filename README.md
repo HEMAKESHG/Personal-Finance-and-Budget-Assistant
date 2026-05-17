@@ -118,22 +118,23 @@ java Main
 4. Exit
 📸 Functionalities
 ```
-
+```
 ✔️ Transaction CRUD Operations
 ✔️ Budget Management
 ✔️ Expense Tracking
 ✔️ Income vs Expense Analysis
 ✔️ Budget Comparisons
 ✔️ Secure Authentication
-
+```
 ## 🔥 Highlights
-
+```
 ✅ Beginner-Friendly Java Project
 ✅ Console-Based Interactive System
 ✅ Strong OOP Implementation
 ✅ Real-Time Financial Summary
 ✅ Resume-Friendly Project
-
+```
+```
 ## 📈 Future Enhancements
 File Handling Support
 Database Integration (MySQL)
@@ -142,30 +143,25 @@ Expense Charts & Analytics
 Export Reports to PDF/CSV
 Cloud Sync Support
 🎯 Learning Outcomes
-
+```
 ## Through this project, I gained practical experience in:
-
+```
 Core Java Programming
 Object-Oriented Design
 Collections Framework
 Menu-Driven Application Development
 Problem Solving & Logic Building
-
-
+```
+```
 # 👨‍💻 Author
 Hemakesh G
 🎓 B.E CSE — Saveetha Engineering College
 💻 Java Developer | Problem Solver | Tech Enthusiast
+```
 
 🔗 Connect With Me
+
 LinkedIn: https://www.linkedin.com/in/hemakesh-g-714745285/
+
 GitHub: https://github.com/HEMAKESHG
-⭐ Support
-
-If you liked this project:
-
-⭐ Star the repository
-🍴 Fork the project
-📢 Share it with others
-
-```<p align="center"> Made with ❤️ using Java </p> ```
+<p align="center"> Made with ❤️ using Java </p> 
