@@ -134,8 +134,9 @@ java Main
 ✅ Real-Time Financial Summary
 ✅ Resume-Friendly Project
 ```
-```
+
 ## 📈 Future Enhancements
+```
 File Handling Support
 Database Integration (MySQL)
 GUI using Java Swing / JavaFX
@@ -152,8 +153,9 @@ Collections Framework
 Menu-Driven Application Development
 Problem Solving & Logic Building
 ```
-```
+
 # 👨‍💻 Author
+```
 Hemakesh G
 🎓 B.E CSE — Saveetha Engineering College
 💻 Java Developer | Problem Solver | Tech Enthusiast
