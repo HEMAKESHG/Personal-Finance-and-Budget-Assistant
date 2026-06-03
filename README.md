@@ -2,6 +2,9 @@
 
 ## Date: May 4, 2025
 
+### PPT : https://drive.google.com/drive/folders/1jvHZBx5c8e98Dbzqu5K5Nl0xx2lygK64OCcNOziqt99GOVqxSBcj2JJVI5wkrE561YcsJ_hf?role=reader
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Console%20Application-CLI-blue?style=for-the-badge" />
